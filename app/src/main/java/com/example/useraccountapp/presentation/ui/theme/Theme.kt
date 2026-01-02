@@ -1,6 +1,5 @@
-package com.example.useraccountapp.ui.theme
+package com.example.useraccountapp.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
